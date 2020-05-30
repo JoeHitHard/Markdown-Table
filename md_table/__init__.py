@@ -1,5 +1,5 @@
 """
-Usage: markdown_table.py [OPTIONS]
+Usage: md_table.py [OPTIONS]
 
 Options:
   -i, --input PATH            csv file to read
@@ -13,4 +13,4 @@ Options:
   --help                      Show this message and exit.
 
 """
-from markdown_table import *
+from md_table import *
